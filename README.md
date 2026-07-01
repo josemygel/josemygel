@@ -30,7 +30,6 @@ Telegram bot that answers questions about you, grounded on a profile you write (
 fine-tuning, no hallucinated facts). Bilingual, text or voice, MCP servers included.
 
 [![Stars](https://img.shields.io/github/stars/josemygel/telegram-cv-bot?style=social)](https://github.com/josemygel/telegram-cv-bot/stargazers)
-[![Last commit](https://img.shields.io/github/last-commit/josemygel/telegram-cv-bot)](https://github.com/josemygel/telegram-cv-bot/commits)
 [![License](https://img.shields.io/badge/license-personal--non--commercial-blue)](https://github.com/josemygel/telegram-cv-bot/blob/main/LICENSE)
 
 <h3>🧰 Stack</h3>
